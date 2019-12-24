@@ -1,2 +1,2 @@
 # WebDevKit
-## Staring something awesome!
+## Starting something awesome!
